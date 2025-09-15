@@ -209,9 +209,9 @@ Here’s why your organization will hit the same wall:
     
 * “We need to clean the data” - $$
     
-* “We need more data” - $$$$
+* “We need more data” -
     
-* “We need different data” - $$$$$$$$$
+* “We need different data” - $
     
 * “We need to start over” - Everything
     
@@ -284,3 +284,5 @@ The future isn’t about who can afford the biggest data center. It’s about wh
 ---
 
 *What percentage of your AI budget goes to data prep? Are you seeing the same 80/20 split? Drop me a note—I’m collecting data on the real economics of AI, and I promise I’ll deduplicate it properly.*
+
+### **In addition to being CEO of** [**Expanso**](https://expanso.io)**, I’m currently writing a book based on what I have seen about the real-world challenges of data preparation for machine learning, focusing on operational, compliance, and cost.** [**I’d love to hear your thoughts**](https://github.com/aronchick/Project-Zen-and-the-Art-of-Data-Maintenance)**!**
