@@ -123,4 +123,4 @@ Because right now, while you're reading this, your data is probably crossing a r
 
 *What percentage of your cloud bill is data transfer? Have you calculated what it would cost to leave your current provider? Let's talk about the real economics of cloud.*
 
-### **In addition to being CEO of** [**Expanso**](https://expanso.io)**, I’m currently writing a book based on what I have seen about the real-world challenges of data preparation for machine learning, focusing on operational, compliance, and cost.** [**I’d love to hear your thoughts**](https://github.com/aronchick/Project-Zen-and-the-Art-of-Data-Maintenance)**!**
+### **In addition to being CEO of** [**Expanso**](https://expanso.io)**, I’m currently writing a book based on what I have seen about the real-world challenges of data preparation for machine learning, focusing on operational, compliance, and cost.** [**I’d love to hear your thoughts**](https://bac.al/iuWTbv8)**!**
