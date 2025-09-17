@@ -4,7 +4,7 @@ seoTitle: "Enterprise Data: An Untapped Risk"
 seoDescription: "Anthropic's $1.5B settlement underscores data legal risks; prioritize data rights and use secure, governed datasets over external sources"
 datePublished: Wed Sep 17 2025 20:52:59 GMT+0000 (Coordinated Universal Time)
 cuid: cmfogkuh9000002ky2k2b8rly
-slug: the-anthropic-15-billion-settlement-nobodys-reading-right-your-enterprise-data-is-a-ticking-time-bomb
+slug: the-anthropic-15-billion-settlement-nobodys-reading-right-your-enterprise-data-is-a-ticking-time-bomb--deleted
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1758138257135/29248ab7-10e2-4a21-a6ee-1ba245d445af.jpeg
 tags: ai, enterprise, data-science, web-scraping, compliance, data-engineering, data-governance
 
