@@ -260,7 +260,7 @@ Because if distributed systems taught us anything, it's this: garbage in, garbag
 
 ---
 
-*Want to learn how intelligent data pipelines can reduce your AI costs?* [***Check out Expanso***](https://expanso.io/)[*. Or don't. But d*](https://expanso.io/)*efinitely do the math yourself. Please. For the love of all that is holy, do the math.*
+*Want to learn how intelligent data pipelines can reduce your AI costs?* [***Check out Expanso***](https://expanso.io/)[*. Or don't. Who am I to tell you what to do.*
 
 **NOTE: I'm currently writing a book based on what I have seen about the real-world challe**[**nges of data prep**](https://expanso.io/)**aration for machine learning, focusing on operational, compliance, and cost.** [**I'd love to hear your though**](https://github.com/aronchick/Project-Zen-and-the-Art-of-Data-Maintenance)[**ts!**](https://github.com/aronchick/Project-Zen-and-the-Art-of-Data-Maintenance)
 
