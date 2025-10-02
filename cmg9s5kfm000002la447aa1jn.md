@@ -6,6 +6,7 @@ datePublished: Thu Oct 02 2025 19:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: cmg9s5kfm000002la447aa1jn
 slug: ghosts-vs-animals
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759383574811/57f679cf-b20b-4c28-addb-7eaa887f26b5.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1759445281392/d1d79e66-b467-4319-bb2d-042d4a16a650.png
 tags: artificial-intelligence, machine-learning, computer-science, training, llm
 
 ---
